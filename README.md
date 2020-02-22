@@ -1,3 +1,8 @@
+# Useful 
+
+declarations are used to register components that will be used and defined in this module.
+imports
+
 # DemoAngularModules
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
