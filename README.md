@@ -1,9 +1,10 @@
 # Useful 
 
-declarations are used to register components that will be used and defined in this module.
-imports
+Declarations: are used to register components that will be used and defined in this module.
+Imports: are used to import other modules.
+Export: components are private to their module by default. To share components between multiple modules, Export is used to declare these components.
 
-# DemoAngularModules
+# DemoAngularModulesa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
